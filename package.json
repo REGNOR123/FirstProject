@@ -14,5 +14,9 @@
     "init_package_json"
   ],
   "author": "Amit Kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "logger": "^0.0.1"
+  }
 }

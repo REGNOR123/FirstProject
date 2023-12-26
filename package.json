@@ -16,6 +16,7 @@
   "author": "Amit Kumar",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "logger": "^0.0.1"
   }
 }
